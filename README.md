@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 Hola, soy Daniel Romero, en este repositorio pueden encontrar mis proyectos.
-Me especializo (y quiero) en:
+Me especializo (y quiero especializarme) en:
 
 🌱 I’m currently learning ...
 
