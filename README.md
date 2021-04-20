@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 Hola, soy Daniel Romero, en este repositorio pueden encontrar mis proyectos.
 Me especializo (y quiero) en:
 
-- 🌱 I’m currently learning ...
+🌱 I’m currently learning ...
 
 Lenguajes:
 * Python
@@ -29,7 +29,8 @@ Frameworks:
 * Angular (Coming Soon)
 * React (Coming Soon)
 
-- 👀 Áreas de interés:
+👀 Áreas de interés:
+
 * Data Science (Favorita)
 * Desarrollo Web
 * Diseño Web UI/UX (Coming Soon)
@@ -38,6 +39,7 @@ Frameworks:
 * DevOps (Coming Soon)
 * Automatización de Tareas Administrativas en Excel
 
-- 📫 Contacto:
+📫 Contacto:
+
 * Email: d.antonio.romeroa@gmail.com
 * Celular: +56 957894076
