@@ -16,20 +16,18 @@ Me especializo (y quiero) en:
 
 🌱 I’m currently learning ...
 
-* Lenguajes:
-  
-  Python
-  Java (Basics)
-  JavaScript (Basics)
-  HTML5, CSS
-  C++ (Coming Soon)
+* Lenguajes:  
+  - Python
+  - Java (Basics)
+  - JavaScript (Basics)
+  - HTML5, CSS
+  - C++ (Coming Soon)
 
-* Frameworks:
-  
-  Django
-  Flask
-  Angular (Coming Soon)
-  React (Coming Soon)
+* Frameworks:  
+  - Django
+  - Flask
+  - Angular (Coming Soon)
+  - React (Coming Soon)
 
 👀 Áreas de interés:
 
