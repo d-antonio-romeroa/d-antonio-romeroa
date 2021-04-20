@@ -15,6 +15,7 @@ Hola, soy Daniel Romero, en este repositorio pueden encontrar mis proyectos.
 Me especializo (y quiero) en:
 
 - 🌱 I’m currently learning ...
+
 Lenguajes:
 * Python
 * Java (Basics)
