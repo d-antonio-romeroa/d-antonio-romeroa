@@ -24,7 +24,7 @@ Me especializo (y quiero especializarme) en:
   - C++ (Coming Soon)
 
 * Frameworks:  
-  - Django
+  - Django (In process)
   - Flask
   - Angular (Coming Soon)
   - React (Coming Soon)
