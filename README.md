@@ -27,7 +27,7 @@ Me especializo (y quiero especializarme) en:
   - Django (In process)
   - Flask
   - Angular (Coming Soon)
-  - React (Coming Soon)
+  - React + Redux (Basic)
   - NodeJS/Express (Basics)
 
 👀 Áreas de interés:
