@@ -28,12 +28,12 @@ Me especializo (y quiero especializarme) en:
   - Flask
   - Angular (Coming Soon)
   - React (Coming Soon)
+  - NodeJS/Express (Basics)
 
 👀 Áreas de interés:
 
 * Data Science (Favorita)
 * Desarrollo Web
-* Diseño Web UI/UX (Coming Soon)
 * Desktop Apps
 * Mobile Dev (Coming Soon)
 * DevOps (Coming Soon)
