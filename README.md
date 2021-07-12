@@ -26,8 +26,8 @@ Me especializo (y quiero especializarme) en:
 * Frameworks:  
   - Django (In process)
   - Flask
-  - Angular (Coming Soon)
-  - React + Redux (Basic)
+  - Angular (Basics)
+  - React + Redux (Basics)
   - NodeJS/Express (Basics)
 
 👀 Áreas de interés:
