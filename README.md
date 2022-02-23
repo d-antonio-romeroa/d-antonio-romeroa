@@ -18,24 +18,27 @@ Me especializo (y quiero especializarme) en:
 
 * Lenguajes:  
   - Python
-  - Java (Basics)
-  - JavaScript (Basics)
-  - HTML5, CSS
-  - C++ (Coming Soon)
+  - Java (Intermediate)
+  - JavaScript (Intermediate)
+  - TypeScript (Intermediate)
+  - HTML5, CSS (Intermediate, Basic)
+  - Kotlin
 
 * Frameworks:  
-  - Django (In process)
-  - Flask
+  - Django Rest Framework (Intermediate)
+  - Flask (Basics)
+  - Fast API (Basics)
   - Angular (Basics)
   - React + Redux (Basics)
-  - NodeJS/Express (Basics)
+  - NodeJS/Express (Intermediate)
 
 👀 Áreas de interés:
 
 * Data Science (Favorita)
 * Desarrollo Web
+* Cloud Architecture
 * Desktop Apps
-* Mobile Dev (Coming Soon)
+* Mobile Dev
 * DevOps (Coming Soon)
 * Automatización de Tareas Administrativas en Excel
 
