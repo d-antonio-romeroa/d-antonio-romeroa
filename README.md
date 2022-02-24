@@ -17,7 +17,7 @@ Me especializo (y quiero especializarme) en:
 🌱 I’m currently learning ...
 
 * Lenguajes:  
-  - Python
+  - Python (Advanced)
   - Java (Intermediate)
   - JavaScript (Intermediate)
   - TypeScript (Intermediate)
@@ -28,7 +28,7 @@ Me especializo (y quiero especializarme) en:
   - Django Rest Framework (Intermediate)
   - Flask (Basics)
   - Fast API (Basics)
-  - Angular (Basics)
+  - Angular (Intermediate)
   - React + Redux (Basics)
   - NodeJS/Express (Intermediate)
 
