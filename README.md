@@ -32,8 +32,8 @@ Me especializo (y quiero especializarme) en:
   - Fast API (Basics)
   - Angular (Intermediate)
   - React + Redux (Basics)
-  - NextJS (Basic)
-  - NestJS (Basic)
+  - NextJS (Intermediate)
+  - NestJS (Intermediate)
   - NodeJS/Express (Intermediate)
 
 👀 Áreas de interés:
